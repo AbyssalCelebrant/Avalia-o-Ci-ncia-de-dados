@@ -1,2 +1,2 @@
-# Avalia-o-Ci-ncia-de-dados
+# Avaliação ciência de dados
 Desenvolvimento do projeto da disciplina ciência de dados
